@@ -26,7 +26,6 @@ import java.util.Date;
 import java.util.function.Consumer;
 
 import org.comtel2000.mokka7.block.DataItem;
-import org.comtel2000.mokka7.block.S7DataItem;
 import org.comtel2000.mokka7.block.S7Timer;
 import org.comtel2000.mokka7.type.AreaType;
 import org.comtel2000.mokka7.type.DataType;
